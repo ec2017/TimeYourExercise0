@@ -1,0 +1,143 @@
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #f2f0e6;
+}
+
+a:hover {
+  color: #d4d2c7;
+}
+
+#link:link {
+  text-decoration: none;
+}
+
+#link:visited {
+  color: #f2f0e6;
+}
+
+#link:hover {
+  color: #d4d2c7;
+}
+
+#about:link {
+  text-decoration: none;
+}
+
+#about:visited {
+  color: #f2f0e6;
+}
+
+#about:hover {
+  color: #d4d2c7;
+}
+
+#login:link {
+  text-decoration: none;
+}
+
+#login:visited {
+  color: #f2f0e6;
+}
+
+#login:hover {
+  color: #d4d2c7;
+}
+
+#link {
+  color: #f2f0e6;
+  padding-left: 20px;
+}
+
+#about {
+  color: #f2f0e6;
+  padding-left: 20px;
+}
+
+#login {
+  color: #f2f0e6;
+  padding-left: 20px;
+}
+
+li {
+  background-color: #b0cbd1;
+  display: inline-block;
+  text-decoration: none;
+  color: #f2f0e6;
+  font-family: 'Abril Fatface', cursive;
+  list-style-type: none;
+  font-size: 50px;
+  margin: auto;
+  width: 100000px;
+}
+
+body {
+  background-color: #f2f0e6;
+}
+
+#title {
+  font-family: 'Unlock', cursive;
+  text-align: center;
+  font-size: 100px;
+  color: #9fb7bd;
+}
+
+#start:link {
+  text-decoration: none;
+}
+
+#start:visited {
+  color: #9fb7bd;
+}
+
+#start:hover {
+  color: #81969b;
+}
+
+#start {
+  color: #9fb7bd;
+  font-size: 65px;
+  text-align: center;
+  display: block;
+}
+
+#count {
+  text-align: center;
+  font-size: 100px;
+}
+
+#buttonstart {
+  width: 200px;
+  background-color: #9fb7bd;
+  border-radius: 50%;
+  border: none;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+  color: #f2f0e6;
+  margin-left: 590px;
+}
+
+#linktitle {
+  font-family: 'Unlock', cursive;
+  text-align: center;
+  font-size: 70px;
+  color: #9fb7bd;
+}
+
+.linkks {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+  text-align: center;
+  display: block;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+  color: gray;
+}
